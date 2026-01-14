@@ -9,7 +9,7 @@ Untuk proyek saat ini diberikan set data mengenai hasil penjualan dari suatu rit
 - **`customer_id`**: kode konsumen
 - **`sku_id`**: kode produk
 - **`payment_id`**: kode dari setiap metode pembayaran yang tersedia
-- **`order_date`**: tanggl pemesanan
+- **`order_date`**: tanggal pemesanan
 - **`price`**: harga satuan
 - **`qty_ordered`**: kuantitas pemesanan
 - **`before_discount`**: harga sebelum diskon
@@ -23,3 +23,13 @@ Untuk proyek saat ini diberikan set data mengenai hasil penjualan dari suatu rit
 - **`registered_date`**: tanggal registrasi
 
 🔗 [Akses Dataset Proyek Di sini](https://docs.google.com/spreadsheets/d/1UR6FXMqCyIJgaIrOVPINOKk2gS2AyWvK/edit?usp=drive_link)
+
+## 🗒️Dashboard Requirements
+Sebelum membuat *dashboard* untuk melakukan visualisasi data mengenai hasil penjualan, manajer produk memberikan beberapa persyaratan (*requirements*) sebagai patokan untuk membuat *dashboard*. Berikut ini merupakan *requirements* yang diberikan dan aksi yang dilakukan.
+1. **Menampilkan performa transaksi secara keseluruhan**
+   Dari permintaan bagian ini metrik yang dapat ditampilkan dalam visualisasi data selanjutnya adalah dengan memberikan informasi mengenai total penjualan, total konsumen yang melakukan transaksi, keuntungan, total diskon yang diberikan, dan kuantitas barang.
+3. Mencari *trend* penjualan
+4. Mengetahui performa dari setiap metode pembayaran
+5. Mencari produk-produk mana saja yang laku
+6. Mengetahui pengeluaran dalam pemberian diskon
+7. Ringkasan transaksi untuk setiap produk dan konsumen
