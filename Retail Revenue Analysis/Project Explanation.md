@@ -5,7 +5,7 @@ Di dalam proyek ini tersaji penjelasan mengenai proses pembuatan *dashboard* unt
 
 ## 📁 Dataset
 Untuk proyek saat ini diberikan set data mengenai hasil penjualan dari suatu ritel berdasarkan pembelian dari setiap pelanggan. *Dataset* dalam proyek ini diambil dari situs pembelajaran mandiri bernama MySkill dalam bentuk *spreadsheet* Excel (.xlsx). Dari *dataset* yang tersedia, terdapat beberapa baris yang memiliki informasi sebagai berikut:
-- '**id**': kode pemesanan
+- "**id**": kode pemesanan
 - '**customer_id**': kode konsumen
 - '**sku_id**': kode produk
 - '**payment_id**': kode dari setiap metode pembayaran yang tersedia
