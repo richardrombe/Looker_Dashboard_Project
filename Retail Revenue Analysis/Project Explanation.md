@@ -29,8 +29,10 @@ Sebelum membuat *dashboard* untuk melakukan visualisasi data mengenai hasil penj
 1. **Menampilkan performa transaksi secara keseluruhan**
 
    Dari permintaan bagian ini metrik yang dapat ditampilkan dalam visualisasi data selanjutnya adalah dengan memberikan informasi mengenai total penjualan, total konsumen yang melakukan transaksi, keuntungan, total diskon yang diberikan, dan kuantitas barang.
-3. Mencari *trend* penjualan
-4. Mengetahui performa dari setiap metode pembayaran
+2. **Mencari *trend* penjualan**
+
+   Kata kunci dari permintaan pembuatan *dashboard* untuk bagian ini terlihat jelas dari kata *trend*, yaitu perubahan penjualan dari waktu ke waktu. Hal ini dapat dipresentasikan dalam bentuk diagram baris (*line chart*).
+3x. Mengetahui performa dari setiap metode pembayaran
 5. Mencari produk-produk mana saja yang laku
 6. Mengetahui pengeluaran dalam pemberian diskon
 7. Ringkasan transaksi untuk setiap produk dan konsumen
