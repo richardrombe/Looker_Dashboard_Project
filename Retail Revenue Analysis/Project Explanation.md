@@ -32,7 +32,15 @@ Sebelum membuat *dashboard* untuk melakukan visualisasi data mengenai hasil penj
 2. **Mencari *trend* penjualan**
 
    Kata kunci dari permintaan pembuatan *dashboard* untuk bagian ini terlihat jelas dari kata *trend*, yaitu perubahan penjualan dari waktu ke waktu. Hal ini dapat dipresentasikan dalam bentuk diagram baris (*line chart*).
-3x. Mengetahui performa dari setiap metode pembayaran
-5. Mencari produk-produk mana saja yang laku
-6. Mengetahui pengeluaran dalam pemberian diskon
-7. Ringkasan transaksi untuk setiap produk dan konsumen
+3. **Mengetahui performa dari setiap metode pembayaran**
+
+   Performa dari setiap metode pembayaran dapat dilihat dari dua cara, yaitu berapa banyak transaksi dari setiap metode pembayaran dan nilai transaksi per metode pembayaran. Untuk kedua aksi tersebut dapat ditunjukkan dalam bentuk diagram batang, kolom, atau diagram pie.
+4. **Mencari produk-produk mana saja yang laku**
+
+   Untuk memenuhi persyaratan ini, hal yang dapat dilakukan adalah dengan cara menunjukkan nilai penjualan dari setiap produk dengan memanfaatkan diagram batang atau hanya menggunakan kolom.
+5. **Mengetahui pengeluaran dalam pemberian diskon**
+
+   Pengeluaran untuk diskon dalam perusahaan ritel ini dapat ditampilkan dengan cara mencari nilai diskon dari setiap produk atau bisa juga melalui kategori produk.
+6. **Ringkasan transaksi untuk setiap produk dan konsumen**
+
+   Persyaratan terakhir untuk membuat *dashboard* saat ini bisa dilihat dari dua bagian kunci, yaitu produk dan konsumen. Dari bagian produk dapat dilihat berapa yang laku, jumlah pendapatan, dan berapa jumlah diskon yang diberikan. Untuk bagian konsumen dapat ditampilkan informasi berupa jumlah transaksi yang dilakukan, jumlah pendapatan, dan jumlah keuntungan. Kedua bagian tersebut dapat disajikan dalam bentuk tabel.
