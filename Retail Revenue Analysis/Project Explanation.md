@@ -47,4 +47,4 @@ Sebelum membuat *dashboard* untuk melakukan visualisasi data mengenai hasil penj
 
 ## 📝 Purwarupa Dashboard (Prototype)
 Tahap selanjutnya dalam pembuatan *dashboard* adalah dengan merancang purwarupa atau *prototype* dari *dashboard* yang akan dibangun. Tujuan dari aktivitas ini adalah untuk memudahkan dalam merancang *dashboard* dan memetakan setiap grafik agar terlihat lebih rapih dan tersusun dengan baik. Perancangan purwarupa untuk visualisasi data dalam proyek ini disusun berdasarkan *requirements* yang sudah didefinisikan dalam tahapan sebelumnya, dengan menggunakan bantuan perangkat lunak bernama Draw.io. Setelah disusun dan ditentukan penempatan setiap grafik yang akan ditampilkan, berikut adalah hasil dari purwarupa yang telah dirancang.
-(https://github.com/richardrombe/Looker_Dashboard_Project/blob/0aba67245ff61f450f908687cd5ba4d0d452f5fc/Retail%20Revenue%20Analysis/Prototype%20of%20Retail%20Transaction%20Dashboard.drawio.png)
+[Gambar](https://github.com/richardrombe/Looker_Dashboard_Project/blob/0aba67245ff61f450f908687cd5ba4d0d452f5fc/Retail%20Revenue%20Analysis/Prototype%20of%20Retail%20Transaction%20Dashboard.drawio.png)
