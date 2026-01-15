@@ -1,7 +1,7 @@
 ## Looker Retail Transaction Analysis Dashboard  (Portfolio Project)
 
 ## 📌 Ringkasan Proyek
-Di dalam proyek ini tersaji penjelasan mengenai proses pembuatan *dashboard* untuk menganalisa pendapatan suatu ritel dengan menggunakan alat bantu visualisasi data. Tujuan utama dari pembuatan *dashboard* ini adalah untuk membantu manajer produk (PM) dalam menganalisis performa penjualan berdasarkan metrik dan kategori yang ada dalam data yang telah diberikan.
+Di dalam proyek ini tersaji penjelasan mengenai proses pembuatan *dashboard* untuk menganalisa pendapatan dan transaksi dalam suatu ritel dengan menggunakan alat bantu visualisasi data. Tujuan utama dari pembuatan *dashboard* ini adalah untuk membantu manajer produk (PM) dalam menganalisis performa penjualan berdasarkan metrik dan kategori yang ada dalam data yang telah diberikan.
 
 | Proyek              | Deskripsi                 | Alat yang digunakan         |
 | --------------------- | --------------------- |---------------------------|
@@ -50,8 +50,8 @@ Sebelum membuat *dashboard* untuk melakukan visualisasi data mengenai hasil penj
    Persyaratan terakhir untuk membuat *dashboard* saat ini bisa dilihat dari dua bagian kunci, yaitu produk dan konsumen. Dari bagian produk dapat dilihat berapa yang laku, jumlah pendapatan, dan berapa jumlah diskon yang diberikan. Untuk bagian konsumen dapat ditampilkan informasi berupa jumlah transaksi yang dilakukan, jumlah pendapatan, dan jumlah keuntungan. Kedua bagian tersebut dapat disajikan dalam bentuk tabel.
 
 ## 📝 Purwarupa Dashboard (Prototype)
-Tahap selanjutnya dalam pembuatan *dashboard* adalah dengan merancang purwarupa atau *prototype* dari *dashboard* yang akan dibangun. Tujuan dari aktivitas ini adalah untuk memudahkan dalam merancang *dashboard* dan memetakan setiap grafik agar terlihat lebih rapih dan tersusun dengan baik. Perancangan purwarupa untuk visualisasi data dalam proyek ini disusun berdasarkan *requirements* yang sudah didefinisikan dalam tahapan sebelumnya, dengan menggunakan bantuan perangkat lunak bernama Draw.io. Setelah disusun dan ditentukan penempatan setiap grafik yang akan ditampilkan, berikut adalah hasil dari purwarupa yang telah dirancang.
+Tahap selanjutnya dalam pembuatan *dashboard* adalah dengan merancang purwarupa atau *prototype* dari *dashboard* yang akan dibangun. Tujuan dari aktivitas ini adalah untuk memudahkan dalam merancang *dashboard* dan memetakan setiap grafik agar terlihat lebih rapih dan tersusun dengan baik. Perancangan purwarupa untuk visualisasi data dalam proyek ini disusun berdasarkan *requirements* yang sudah didefinisikan dalam tahapan sebelumnya, dengan menggunakan bantuan perangkat lunak bernama Draw.io. Setelah disusun dan ditentukan penempatan setiap grafik yang akan ditampilkan, berikut ini adalah hasil dari purwarupa yang telah dirancang.
 
 <img width="1124" height="2402" alt="Prototype of Retail Transaction Dashboard drawio" src="https://github.com/user-attachments/assets/cf8328d3-0f7c-4c2f-a6c8-359c2bd2893a" />
 
-Dari purwarupa yang tersaji di atas, terdapat beberapa grafik dan informasi singkat berupa data numerik yang akan ditampilkan dalam alat visualusasi data. Tahap selanjutnya adalah membangun dan mendesain *dashboard* berdasarkan purwarupa yang sudah ada.
+Dari purwarupa yang tersaji di atas, terdapat beberapa grafik dan informasi singkat berupa data numerik yang akan ditampilkan dalam alat visualusasi data. Tahap selanjutnya adalah membangun dan mendesain *dashboard* berdasarkan purwarupa yang sudah ada menggunakan Google Looker.
