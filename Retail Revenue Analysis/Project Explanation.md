@@ -44,3 +44,6 @@ Sebelum membuat *dashboard* untuk melakukan visualisasi data mengenai hasil penj
 6. **Ringkasan transaksi untuk setiap produk dan konsumen**
 
    Persyaratan terakhir untuk membuat *dashboard* saat ini bisa dilihat dari dua bagian kunci, yaitu produk dan konsumen. Dari bagian produk dapat dilihat berapa yang laku, jumlah pendapatan, dan berapa jumlah diskon yang diberikan. Untuk bagian konsumen dapat ditampilkan informasi berupa jumlah transaksi yang dilakukan, jumlah pendapatan, dan jumlah keuntungan. Kedua bagian tersebut dapat disajikan dalam bentuk tabel.
+
+## 📝 Purwarupa Dashboard (Prototype)
+Tahap selanjutnya dalam pembuatan *dashboard* adalah dengan merancang purwarupa atau *prototype* dari *dashboard* yang akan dibangun. Tujuan dari aktivitas ini adalah untuk memudahkan dalam merancang *dashboard* dan memetakan setiap grafik agar terlihat lebih rapih dan tersusun dengan baik. Perancangan purwarupa untuk visualisasi data dalam proyek ini disusun berdasarkan *requirements* yang sudah didefinisikan dalam tahapan sebelumnya, dengan menggunakan bantuan perangkat lunak bernama Draw.io.
