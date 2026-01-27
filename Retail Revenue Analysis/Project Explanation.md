@@ -1,14 +1,14 @@
 ## Looker Retail Transaction Analysis Dashboard  (Portfolio Project)
 
 ## 📌 Ringkasan Proyek
-Di dalam proyek ini tersaji penjelasan mengenai proses pembuatan *dashboard* untuk menganalisa pendapatan dan transaksi dalam suatu ritel dengan menggunakan alat bantu visualisasi data. Tujuan utama dari pembuatan *dashboard* ini adalah untuk membantu manajer produk (PM) dalam menganalisis performa penjualan berdasarkan metrik dan kategori yang ada dalam data yang telah diberikan.
+Di dalam proyek ini tersaji penjelasan mengenai proses pembuatan *dashboard* untuk menganalisa pendapatan dan transaksi dalam suatu ritel dengan menggunakan alat bantu visualisasi data. Tujuan utama dari pembuatan *dashboard* ini adalah untuk membantu manajer produk (*Product Manager*) dalam menganalisis performa penjualan berdasarkan metrik dan kategori yang ada dalam data yang telah diberikan. Lain dari itu, kegiatan dalam proyek ini yaitu mentransformasi data mentah mengenai transaksi pembelian dalam suatu ritel menjadi informasi visual yang menunjukkan kegiatan transaksi ritel dari Januari 2021 hingga Desember 2022. Dengan adanya visualisasi data ini, ritel dapat mengidentifikasi pertumbuhan transaksi produk per kategori yang ingin fokus dikembangkan dan mempermudah pemangku kepentingan dalam membuat keputusan bisnis yang lebih strategis. 
 
 | Proyek              | Deskripsi                 | Alat yang digunakan         |
 | --------------------- | --------------------- |---------------------------|
 | Retail Transaction Analysis with Looker | Merancang *dashboard* untuk suatu perusahaan ritel dalam meninjau dan menganalisa transaksi penjualan produk dari beberapa parameter | Google Looker Studio dan Draw.io |
 
 ## 📁 Dataset
-Untuk proyek saat ini diberikan set data mengenai hasil penjualan dari suatu ritel berdasarkan pembelian dari setiap pelanggan. *Dataset* dalam proyek ini diambil dari situs pembelajaran mandiri bernama MySkill dalam bentuk *spreadsheet* Excel (.xlsx). Dari *dataset* yang tersedia, terdapat beberapa baris yang memiliki informasi sebagai berikut:
+Untuk proyek saat ini diberikan set data mengenai hasil penjualan dari suatu ritel berdasarkan pembelian dari setiap pelanggan. *Dataset* dalam proyek ini diambil dari situs pembelajaran mandiri bernama MySkill dalam bentuk *spreadsheet* Excel (.xlsx). Isi keseluruhan data yang tersedia memiliki 19 kolom dan lebih dari 5000 baris. Dari *dataset* yang tersedia, terdapat beberapa baris yang memiliki informasi sebagai berikut:
 - **`id`**: kode pemesanan
 - **`customer_id`**: kode konsumen
 - **`sku_id`**: kode produk
@@ -55,3 +55,5 @@ Tahap selanjutnya dalam pembuatan *dashboard* adalah dengan merancang purwarupa 
 <img width="1124" height="2402" alt="Prototype of Retail Transaction Dashboard drawio" src="https://github.com/user-attachments/assets/cf8328d3-0f7c-4c2f-a6c8-359c2bd2893a" />
 
 Dari purwarupa yang tersaji di atas, terdapat beberapa grafik dan informasi singkat berupa data numerik yang akan ditampilkan dalam alat visualusasi data. Tahap selanjutnya adalah membangun dan mendesain *dashboard* berdasarkan purwarupa yang sudah ada menggunakan Google Looker.
+
+## 📈 Dashboard Interface (Tampilan Dashboard)
