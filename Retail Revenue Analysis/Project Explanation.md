@@ -57,5 +57,6 @@ Tahap selanjutnya dalam pembuatan *dashboard* adalah dengan merancang purwarupa 
 Dari purwarupa yang tersaji di atas, terdapat beberapa grafik dan informasi singkat berupa data numerik yang akan ditampilkan dalam alat visualusasi data. Tahap selanjutnya adalah membangun dan mendesain *dashboard* berdasarkan purwarupa yang sudah ada menggunakan Google Looker.
 
 ## 📈 Dashboard Interface (Tampilan Dashboard)
+### Dashboard of Retail Transaction on Looker Studio
 
 ## 🔍 Data Insight (Penjelasan Data dalam Dashboard)
