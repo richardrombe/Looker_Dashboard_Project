@@ -1,5 +1,3 @@
-![Retail_Transaction_Report_-_Portfolio_Project_page-0001](https://github.com/user-attachments/assets/a0949b24-da1b-4016-8f32-edcb472f0147)## Looker Retail Transaction Analysis Dashboard  (Portfolio Project)
-
 ## 📌 Ringkasan Proyek
 Di dalam proyek ini tersaji penjelasan mengenai proses pembuatan *dashboard* untuk menganalisa pendapatan dan transaksi dalam suatu ritel dengan menggunakan alat bantu visualisasi data. Tujuan utama dari pembuatan *dashboard* ini adalah untuk membantu manajer produk (*Product Manager*) dalam menganalisis performa penjualan berdasarkan metrik dan kategori yang ada dalam data yang telah diberikan. Lain dari itu, kegiatan dalam proyek ini yaitu mentransformasi data mentah mengenai transaksi pembelian dalam suatu ritel menjadi informasi visual yang menunjukkan kegiatan transaksi ritel dari Januari 2021 hingga Desember 2022. Dengan adanya visualisasi data ini, ritel dapat mengidentifikasi pertumbuhan transaksi produk per kategori yang ingin fokus dikembangkan dan mempermudah pemangku kepentingan dalam membuat keputusan bisnis yang lebih strategis. 
 
