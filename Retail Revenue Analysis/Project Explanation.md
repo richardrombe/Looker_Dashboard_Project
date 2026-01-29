@@ -56,7 +56,9 @@ Dari purwarupa yang tersaji di atas, terdapat beberapa grafik dan informasi sing
 
 ## 📈 Dashboard Interface (Tampilan Dashboard)
 ### [Dashboard of Retail Transaction on Looker Studio](https://lookerstudio.google.com/s/uILPZxZTOM0)
+
 <img width="1726" height="4928" alt="Retail_Transaction_Report_-_Portfolio_Project-1" src="https://github.com/user-attachments/assets/58177975-bcfb-41f7-b38d-27ba999992a1" />
+
 Perusahaan ritel yang dianalisis pada proyek saat ini memiliki data transaksi pembelian produk setiap pelanggan selama dua tahun, di mulai pada bulan Januari 2021 hingga Desember 2022. Setiap data yang ingin diperlihatkan secara visual telah direpresentasikan melalui *dashboard* seperti pada tampilan gambar tertera di atas. Untuk elemen visual dalam *dashboard* memiliki penjelasan teknis mengenai bagaimana data dengan layak ditampilkan mulai dari bagian atas hingga bawah, dan berikut ini merupakan penjelasannya:
 - Pada bagian atas kanvas dari *dashboard*, terdapat lima elemen data mengenai performa bisnis ritel secara keseluruhan yang ditampilkan secara berderet menggunakan *scorecard*. Dalam bisnis ritel ini, untuk setiap transaksi yang ditampilkan datanya menggunakan satuan kurs **Indonesian Rupiah (IDR)**.
 - Bagian visual data kedua yang tertera berbicara mengenai performa penjualan dari waktu ke waktu yang dispesifikasikan berdasarkan bulan dalam tahun (*year month*). Grafik disusun menggunakan dua dimensi data, untuk dimensi vertikal (y) menggunakan data mengenai **pemasukkan sebelum dipotong diskon** dan dimensi horizontal (x) dari data **transaksi pelanggan**. Setiap bulan sudah diberikan titik tanda atau poin untuk mempermudah pembaca untuk melihat akumulasi data mengenai penjualan ritel.
