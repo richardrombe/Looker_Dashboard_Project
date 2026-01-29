@@ -31,19 +31,23 @@ Sebelum membuat *dashboard* untuk melakukan visualisasi data mengenai hasil penj
 1. **Menampilkan performa transaksi secara keseluruhan**
 
    Dari permintaan bagian ini metrik yang dapat ditampilkan dalam visualisasi data selanjutnya adalah dengan memberikan informasi mengenai total penjualan, total konsumen yang melakukan transaksi, keuntungan, total diskon yang diberikan, dan kuantitas barang.
-2. **Mencari *trend* penjualan**
+   
+3. **Mencari *trend* penjualan**
 
    Kata kunci dari permintaan pembuatan *dashboard* untuk bagian ini terlihat jelas dari kata *trend*, yaitu perubahan penjualan dari waktu ke waktu. Hal ini dapat dipresentasikan dalam bentuk diagram baris (*line chart*).
-3. **Mengetahui performa dari setiap metode pembayaran**
+   
+5. **Mengetahui performa dari setiap metode pembayaran**
 
    Performa dari setiap metode pembayaran dapat dilihat dari dua cara, yaitu berapa banyak transaksi dari setiap metode pembayaran dan nilai transaksi per metode pembayaran. Untuk kedua aksi tersebut dapat ditunjukkan dalam bentuk diagram batang, kolom, atau diagram pie.
-4. **Mencari produk-produk mana saja yang laku**
+   
+7. **Mencari produk-produk mana saja yang laku**
 
    Untuk memenuhi persyaratan ini, hal yang dapat dilakukan adalah dengan cara menunjukkan nilai penjualan dari setiap produk dengan memanfaatkan diagram batang atau hanya menggunakan kolom.
-5. **Mengetahui pengeluaran dalam pemberian diskon**
+8. **Mengetahui pengeluaran dalam pemberian diskon**
 
    Pengeluaran untuk diskon dalam perusahaan ritel ini dapat ditampilkan dengan cara mencari nilai diskon dari setiap produk atau bisa juga melalui kategori produk.
-6. **Ringkasan transaksi untuk setiap produk dan konsumen**
+   
+10. **Ringkasan transaksi untuk setiap produk dan konsumen**
 
    Persyaratan terakhir untuk membuat *dashboard* saat ini bisa dilihat dari dua bagian kunci, yaitu produk dan konsumen. Dari bagian produk dapat dilihat berapa yang laku, jumlah pendapatan, dan berapa jumlah diskon yang diberikan. Untuk bagian konsumen dapat ditampilkan informasi berupa jumlah transaksi yang dilakukan, jumlah pendapatan, dan jumlah keuntungan. Kedua bagian tersebut dapat disajikan dalam bentuk tabel.
 
@@ -63,8 +67,9 @@ Perusahaan ritel yang dianalisis pada proyek saat ini memiliki data transaksi pe
 - Pada bagian atas kanvas dari *dashboard*, terdapat lima elemen data mengenai performa bisnis ritel secara keseluruhan yang ditampilkan secara berderet menggunakan *scorecard*. Dalam bisnis ritel ini, untuk setiap transaksi yang ditampilkan datanya menggunakan satuan kurs **Indonesian Rupiah (IDR)**.
 - Bagian visual data kedua yang tertera berbicara mengenai performa penjualan dari waktu ke waktu yang dispesifikasikan berdasarkan bulan dalam tahun (*year month*). Grafik disusun menggunakan dua dimensi data, untuk dimensi vertikal (y) menggunakan data mengenai **pemasukkan sebelum dipotong diskon** dan dimensi horizontal (x) dari data **transaksi pelanggan**. Setiap bulan sudah diberikan titik tanda atau poin untuk mempermudah pembaca untuk melihat akumulasi data mengenai penjualan ritel.
 - Selanjutnya adalah grafik mengenai transaksi pembelian berdasarkan metode pembayaran dan kategori produk divisualisasikan menggunakan grafik donat. Nilai dari setiap kategori yang tertera dalam grafik ditampilkan menggunakan satuan persen. Karena ada banyak sekali jenis kategori yang ada dalam kedua grafik, keputusan yang diambil adalah dengan menampilkan hanya **5 kategori teratas** dan selebihnya dikategorikan sebagai ***Others***.
-- Sama seperti pada poin sebelumnya, untuk grafik mengenai nilai transaksi berdasarkan metode pembayaran dan kategori produk hanya ditampilkan 5 kategori dengan nilai terbesar dan sisanya digabungkan dalam satu grup bernama *Others*. Grafik disajikan dalam bentuk *bar* atau diagram batang dengan nilai transaksi pada bagian horizontal diringkas dalam bentuk milyaran (B).
+- Sama seperti pada poin sebelumnya, untuk grafik mengenai nilai transaksi berdasarkan metode pembayaran dan kategori produk hanya ditampilkan 5 kategori dengan nilai terbesar dan sisanya digabungkan dalam satu grup bernama *Others*. Grafik disajikan dalam bentuk *bar* atau diagram batang dengan nilai transaksi pada bagian horizontal diringkas dalam bentuk miliaran (B).
 - Pada bagian grafik mengenai diskon yang dikeluarkan ritel kepada pelanggan disajikan sama seperti sebelumnya, yaitu dalam bentuk diagram batang. Untuk dimensi vertikal (x) dalam grafik adalah data mengenai **diskon yang diberikan ritel kepada setiap pelanggan**, yang diringkas dalam bentuk jutaan (M) dan dimensi horizontal mengenai **kategori produk**. Seperti beberapa grafik sebelumnya, diagram ini disajikan hanya **9 ketagori dengan pengeluaran diskon terbanyak** dan sisanya digabungkan dalam satu batang, yaitu ***Others***.
 - Dua bagian terakhir dalam *dashboard* untuk proyek ini adalah ringkasan mengenai transaksi setiap produk berdasarkan ketegorinya dan transaksi yang dilakukan oleh setiap pelanggan dalam bentuk tabel. Ringkasan data disajikan dengan beberapa metrik, yaitu **penjualan, diskon yang diberikan, kuantitas barang yang dibeli, dan keuntungan yang didapatkan**. Untuk setiap ringkasan transaksi produk per kategori dan transaksi per pelanggan, telah disajikan subtotal untuk setiap metrik yang tersedia.
 
 ## 🔍 Data Insight Summary (Penjelasan Data dalam Dashboard)
+Analisis dalam bagian ini diceritakan berdasarkan hasil visualisasi yang telah dibuat sebelumnya dan dapat dilihat kembali pada bagian tampilan *dashboard* pada gambar atau tautan yang tersedia. Berikut ini merupakan penjelasan mengenai analisis data mengenai performa bisnis dalam suatu ritel pada setiap grafik yang tersaji dalam *dashboard*.
