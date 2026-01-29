@@ -32,22 +32,23 @@ Sebelum membuat *dashboard* untuk melakukan visualisasi data mengenai hasil penj
 
    Dari permintaan bagian ini metrik yang dapat ditampilkan dalam visualisasi data selanjutnya adalah dengan memberikan informasi mengenai total penjualan, total konsumen yang melakukan transaksi, keuntungan, total diskon yang diberikan, dan kuantitas barang.
    
-3. **Mencari *trend* penjualan**
+2. **Mencari *trend* penjualan**
 
    Kata kunci dari permintaan pembuatan *dashboard* untuk bagian ini terlihat jelas dari kata *trend*, yaitu perubahan penjualan dari waktu ke waktu. Hal ini dapat dipresentasikan dalam bentuk diagram baris (*line chart*).
    
-5. **Mengetahui performa dari setiap metode pembayaran**
+3. **Mengetahui performa dari setiap metode pembayaran**
 
    Performa dari setiap metode pembayaran dapat dilihat dari dua cara, yaitu berapa banyak transaksi dari setiap metode pembayaran dan nilai transaksi per metode pembayaran. Untuk kedua aksi tersebut dapat ditunjukkan dalam bentuk diagram batang, kolom, atau diagram pie.
    
-7. **Mencari produk-produk mana saja yang laku**
+4. **Mencari produk-produk mana saja yang laku**
 
    Untuk memenuhi persyaratan ini, hal yang dapat dilakukan adalah dengan cara menunjukkan nilai penjualan dari setiap produk dengan memanfaatkan diagram batang atau hanya menggunakan kolom.
-8. **Mengetahui pengeluaran dalam pemberian diskon**
+   
+5. **Mengetahui pengeluaran dalam pemberian diskon**
 
    Pengeluaran untuk diskon dalam perusahaan ritel ini dapat ditampilkan dengan cara mencari nilai diskon dari setiap produk atau bisa juga melalui kategori produk.
    
-10. **Ringkasan transaksi untuk setiap produk dan konsumen**
+6. **Ringkasan transaksi untuk setiap produk dan konsumen**
 
    Persyaratan terakhir untuk membuat *dashboard* saat ini bisa dilihat dari dua bagian kunci, yaitu produk dan konsumen. Dari bagian produk dapat dilihat berapa yang laku, jumlah pendapatan, dan berapa jumlah diskon yang diberikan. Untuk bagian konsumen dapat ditampilkan informasi berupa jumlah transaksi yang dilakukan, jumlah pendapatan, dan jumlah keuntungan. Kedua bagian tersebut dapat disajikan dalam bentuk tabel.
 
@@ -64,7 +65,7 @@ Dari purwarupa yang tersaji di atas, terdapat beberapa grafik dan informasi sing
 <img width="1726" height="4928" alt="Retail_Transaction_Report_-_Portfolio_Project-1" src="https://github.com/user-attachments/assets/58177975-bcfb-41f7-b38d-27ba999992a1" />
 
 Perusahaan ritel yang dianalisis pada proyek saat ini memiliki data transaksi pembelian produk setiap pelanggan selama dua tahun, di mulai pada bulan Januari 2021 hingga Desember 2022. Setiap data yang ingin diperlihatkan secara visual telah direpresentasikan melalui *dashboard* seperti pada tampilan gambar tertera di atas. Untuk elemen visual dalam *dashboard* memiliki penjelasan teknis mengenai bagaimana data dengan layak ditampilkan mulai dari bagian atas hingga bawah, dan berikut ini merupakan penjelasannya:
-- Pada bagian atas kanvas dari *dashboard*, terdapat lima elemen data mengenai performa bisnis ritel secara keseluruhan yang ditampilkan secara berderet menggunakan *scorecard*. Dalam bisnis ritel ini, untuk setiap transaksi yang ditampilkan datanya menggunakan satuan kurs **Indonesian Rupiah (IDR)**.
+- Pada bagian atas kanvas dari *dashboard*, terdapat lima elemen data mengenai performa bisnis ritel secara keseluruhan yang ditampilkan secara berderet menggunakan *scorecard*. Dalam bisnis ritel ini, untuk setiap transaksi yang ditampilkan datanya menggunakan satuan kurs ***Indonesian Rupiah (IDR)***.
 - Bagian visual data kedua yang tertera berbicara mengenai performa penjualan dari waktu ke waktu yang dispesifikasikan berdasarkan bulan dalam tahun (*year month*). Grafik disusun menggunakan dua dimensi data, untuk dimensi vertikal (y) menggunakan data mengenai **pemasukkan sebelum dipotong diskon** dan dimensi horizontal (x) dari data **transaksi pelanggan**. Setiap bulan sudah diberikan titik tanda atau poin untuk mempermudah pembaca untuk melihat akumulasi data mengenai penjualan ritel.
 - Selanjutnya adalah grafik mengenai transaksi pembelian berdasarkan metode pembayaran dan kategori produk divisualisasikan menggunakan grafik donat. Nilai dari setiap kategori yang tertera dalam grafik ditampilkan menggunakan satuan persen. Karena ada banyak sekali jenis kategori yang ada dalam kedua grafik, keputusan yang diambil adalah dengan menampilkan hanya **5 kategori teratas** dan selebihnya dikategorikan sebagai ***Others***.
 - Sama seperti pada poin sebelumnya, untuk grafik mengenai nilai transaksi berdasarkan metode pembayaran dan kategori produk hanya ditampilkan 5 kategori dengan nilai terbesar dan sisanya digabungkan dalam satu grup bernama *Others*. Grafik disajikan dalam bentuk *bar* atau diagram batang dengan nilai transaksi pada bagian horizontal diringkas dalam bentuk miliaran (B).
@@ -73,3 +74,5 @@ Perusahaan ritel yang dianalisis pada proyek saat ini memiliki data transaksi pe
 
 ## 🔍 Data Insight Summary (Penjelasan Data dalam Dashboard)
 Analisis dalam bagian ini diceritakan berdasarkan hasil visualisasi yang telah dibuat sebelumnya dan dapat dilihat kembali pada bagian tampilan *dashboard* pada gambar atau tautan yang tersedia. Berikut ini merupakan penjelasan mengenai analisis data mengenai performa bisnis dalam suatu ritel pada setiap grafik yang tersaji dalam *dashboard*.
+
+1. **Performa penjualan naik dan turun secara fluktuatif**. Jika dilihat pada grafik mengenai pemasukkan ritel dari periode awal hingga akhir, nilai pendapatan cenderung tidak stabil. Contohnya untuk nilai pendapatan pada bulan Juni 2021 ke Juli 2021, terdapat kenaikan yang cukup signifikan, yaitu dari Rp 115.395.002 ke Rp 494.339.295 atau **naik hampir 4 kali lipat**. Di sisi lain yaitu terdapat penurunan tajam pendapatan ritel dalam periode bulan September 2022 dan Oktober 2022, dari Rp 660.452.467 ke Rp 124.809.272 atau **turun sekitar 5 kali lipat**. Hasil pendapatan terendah dalam ritel ini terjadi pada bulan April 2021, yakni sekitar Rp 81 juta dan pendapatan tertinggi terjadi satu tahun setelahnya, yakni pada bulan April 2022 dengan nominal sekitar Rp 698 juta.
