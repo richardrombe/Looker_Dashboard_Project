@@ -13,3 +13,20 @@ Secara umum, data yang terkandung menceritakan mengenai identitas setiap nasabah
 - Jumlah kolom: 32 kolom dengan beragam tipe data
 
 🔗 [Dataset proyek dapat dilihat disini](https://docs.google.com/spreadsheets/d/1xnoH76rmOHwfv9djW1H6I09xoM37djlrdamU36Bojjg/edit?usp=sharing)
+
+## 🗒️ Dashboard Requirements
+Penyusunan kebutuhan dalam membuat visualisasi diperlukan untuk mengetahui informasi apa saja yang akan ditampilkan dalam dasbor. Informasi yang akan disediakan dalam visualisasi data untuk proyek ini dibagi menjadi 3 segmen, yaitu data mengenai **profil pelanggan secara umum, keuntungan yang didapatkan oleh perusahaan, dan risiko yang dialami dari pelanggan**. Melalui ketiga garis besar itu, berikut ini adalah informasi mengenai apa saja yang akan disajikan dalam dasbor mengenai transaksi pelanggan kartu kredit dalam suatu bank.
+
+1. **Demografis pelanggan**
+
+    Pelanggan yang memiliki kartu kredit pastinya memiliki data mengenai profilnya saat mendaftarkan dirinya menjadi *member*. Tim analis kredit bank dapat memanfaatkan data nasabah sebagai alat ukur untuk mengetahui karakteristik pelanggan yang menggunakan layanan kartu kredit. Di bawah ini sudah tersedia mengenai informasi apa saja yang akan ditampilkan pada dasbor dalam segmen pertama, yaitu demografis pelanggan.
+   - Sebaran mengenai jumlah nasabah kartu kredit berdasarkan negara bagian
+   - Jumlah pelanggan yang dikategorikan berdasarkan jenis pekerjaannya
+   - Jumlah pelanggan berdasarkan jenjang pendidikan terakhir
+   - Jumlah pelanggan yang dikelompokkan berdasarkan status perkawinan
+   - Jumlah pelanggan yang dikelompokkan berdasarkan jenis pengalaman kartu kredit yang dimiliki, dan
+   - Informasi umum pelanggan dari setiap negara bagian
+
+3. **Penghasilan yang didapatkan dari pelanggan**
+   
+4.  **Risiko yang dialami oleh perusahaan dari pelanggan**
