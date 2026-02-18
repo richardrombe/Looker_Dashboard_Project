@@ -43,3 +43,7 @@ Penyusunan kebutuhan dalam membuat visualisasi diperlukan untuk mengetahui infor
     - Nilai rata-rata dalam mengakuisisi nasabah (*acquisition cost*) berdasarkan jenis pekerjaan pelanggan
     - Persentase pelanggan gagal bayar yang dikategorikan dari status perkawinan, dan
     - Nilai persentase rata-rata pelanggan yang pernah gagal bayar berdasarkan jenis pekerjaan dan jenjang pendidikan akhir.
+
+## 🔍 Data Findings
+
+## 💡 Recommendations
