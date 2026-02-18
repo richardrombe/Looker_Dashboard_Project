@@ -39,7 +39,7 @@ Penyusunan kebutuhan dalam membuat visualisasi diperlukan untuk mengetahui infor
 3.  **Risiko yang dialami oleh perusahaan dari pelanggan**
 
     Selain keuntungan yang didapatkan oleh bank penyedia kredit ini, hal yang ingin diketahui selanjutnya adalah mengenai risiko yang bank hadapi dari sisi pelanggan. Risiko yang akan diperlihatkan dalam hal ini adalah pelanggan atau nasabah yang pernah melakukan gagal bayar. Tentu saja gagal bayar dapat merugikan penyedia kredit dan berikut ini merupakan poin yang akan dipakai dalam membuat dasbor untuk segmen profil risiko pelanggan.
-   - Persentase mengenai jumlah rata-rata pelanggan yang melakukan gagal bayar dari setiap negara bagian
-   - Nilai rata-rata dalam mengakuisisi nasabah (*acquisition cost*) berdasarkan jenis pekerjaan pelanggan
-   - Persentase pelanggan gagal bayar yang dikategorikan dari status perkawinan, dan
-   - Nilai persentase rata-rata pelanggan yang pernah gagal bayar berdasarkan jenis pekerjaan dan jenjang pendidikan akhir.
+    - Persentase mengenai jumlah rata-rata pelanggan yang melakukan gagal bayar dari setiap negara bagian
+    - Nilai rata-rata dalam mengakuisisi nasabah (*acquisition cost*) berdasarkan jenis pekerjaan pelanggan
+    - Persentase pelanggan gagal bayar yang dikategorikan dari status perkawinan, dan
+    - Nilai persentase rata-rata pelanggan yang pernah gagal bayar berdasarkan jenis pekerjaan dan jenjang pendidikan akhir.
