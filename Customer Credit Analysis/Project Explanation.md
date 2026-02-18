@@ -25,8 +25,16 @@ Penyusunan kebutuhan dalam membuat visualisasi diperlukan untuk mengetahui infor
    - Jumlah pelanggan berdasarkan jenjang pendidikan terakhir
    - Jumlah pelanggan yang dikelompokkan berdasarkan status perkawinan
    - Jumlah pelanggan yang dikelompokkan berdasarkan jenis pengalaman kartu kredit yang dimiliki, dan
-   - Informasi umum pelanggan dari setiap negara bagian
+   - Informasi umum pelanggan dari setiap negara bagian.
 
-3. **Penghasilan yang didapatkan dari pelanggan**
+2. **Penghasilan yang didapatkan dari pelanggan**
+
+   Kinerja mengenai keuntungan yang didapatkan oleh industri bank dapat dilihat dari seberapa banyak nasabah melakukan transaksi. Oleh sebab itu, dalam segmen kedua visualisasi data mengenai transaksi pelanggan kartu kredit berisikan mengenai seberapa banyak perusahaan bank ini menghasilkan keuntungan dari beberapa jenis pemasukkan.
+   - Jumlah keuntungan yang diraih dari biaya berlangganan berdasarkan jenis pekerjaan nasabah
+   - Bunga (*interest*) yang diperoleh bank berdasarkan jenis pekerjaan
+   - Total transaksi keseluruhan nasabah yang dikelompokkan sesuai dengan pekerjaannya
+   - Nilai rata-rata dari persentase pemakaian kredit aktif (*utilization rate*) berdasarkan jenis pekerjaan, dan
+   - Nilai rata-rata dari volume transaksi nasabah berdasarkan jenis pekerjaan dan jenjang pendidikan akhir.
+
+3.  **Risiko yang dialami oleh perusahaan dari pelanggan**
    
-4.  **Risiko yang dialami oleh perusahaan dari pelanggan**
