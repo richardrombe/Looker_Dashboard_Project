@@ -19,7 +19,7 @@ Penyusunan kebutuhan dalam membuat visualisasi diperlukan untuk mengetahui infor
 
 1. **Demografis pelanggan**
 
-    Pelanggan yang memiliki kartu kredit pastinya memiliki data mengenai profilnya saat mendaftarkan dirinya menjadi *member*. Tim analis kredit bank dapat memanfaatkan data nasabah sebagai alat ukur untuk mengetahui karakteristik pelanggan yang menggunakan layanan kartu kredit. Di bawah ini sudah tersedia mengenai informasi apa saja yang akan ditampilkan pada dasbor dalam segmen pertama, yaitu demografis pelanggan.
+   Pelanggan yang memiliki kartu kredit pastinya memiliki data mengenai profilnya saat mendaftarkan dirinya menjadi *member*. Tim analis kredit bank dapat memanfaatkan data nasabah sebagai alat ukur untuk mengetahui karakteristik pelanggan yang menggunakan layanan kartu kredit. Di bawah ini sudah tersedia mengenai informasi apa saja yang akan ditampilkan pada dasbor dalam segmen pertama, yaitu demografis pelanggan.
    - Sebaran mengenai jumlah nasabah kartu kredit berdasarkan negara bagian
    - Jumlah pelanggan yang dikategorikan berdasarkan jenis pekerjaannya
    - Jumlah pelanggan berdasarkan jenjang pendidikan terakhir
@@ -38,7 +38,7 @@ Penyusunan kebutuhan dalam membuat visualisasi diperlukan untuk mengetahui infor
 
 3.  **Risiko yang dialami oleh perusahaan dari pelanggan**
 
-   Selain keuntungan yang didapatkan oleh bank penyedia kredit ini, hal yang ingin diketahui selanjutnya adalah mengenai risiko yang bank hadapi dari sisi pelanggan. Risiko yang akan diperlihatkan dalam hal ini adalah pelanggan atau nasabah yang pernah melakukan gagal bayar. Tentu saja gagal bayar dapat merugikan penyedia kredit dan berikut ini merupakan poin yang akan dipakai dalam membuat dasbor untuk segmen profil risiko pelanggan.
+    Selain keuntungan yang didapatkan oleh bank penyedia kredit ini, hal yang ingin diketahui selanjutnya adalah mengenai risiko yang bank hadapi dari sisi pelanggan. Risiko yang akan diperlihatkan dalam hal ini adalah pelanggan atau nasabah yang pernah melakukan gagal bayar. Tentu saja gagal bayar dapat merugikan penyedia kredit dan berikut ini merupakan poin yang akan dipakai dalam membuat dasbor untuk segmen profil risiko pelanggan.
    - Persentase mengenai jumlah rata-rata pelanggan yang melakukan gagal bayar dari setiap negara bagian
    - Nilai rata-rata dalam mengakuisisi nasabah (*acquisition cost*) berdasarkan jenis pekerjaan pelanggan
    - Persentase pelanggan gagal bayar yang dikategorikan dari status perkawinan, dan
