@@ -1,4 +1,4 @@
-## 📌 Ringkasan Proyek
+## 📌 Project Overview
 Pada proyek saat ini, terdapat penjelasan mengenai pembuatan *dashboard* mengenai transaksi pelanggan yang ada dalam suatu industri perbankan *fiktif* penyedia kredit dan penjelasan mengenai temuan yang dihasilkan. Nama dari perusahaan perbankan tersebut adalah **Payflow**, yang berlokasi di negara Amerika Serikat (USA). Tujuan dari adanya visualisasi data bagi perusahaan perbankan tersebut adalah untuk memetakan strategi dalam menyediakan kredit bagi pelanggan dalam suatu wilayah dan menyediakan layanan prioritas bagi segmen pelanggan yang paling berpotensi dalam menghasilkan keuntungan terbanyak.
 
 | Nama Proyek              | Deskripsi                 | Alat yang digunakan         |
