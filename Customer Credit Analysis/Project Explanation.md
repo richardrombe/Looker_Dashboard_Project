@@ -25,7 +25,7 @@ Penyusunan kebutuhan dalam membuat visualisasi diperlukan untuk mengetahui infor
    - Jumlah pelanggan berdasarkan jenjang pendidikan terakhir
    - Jumlah pelanggan yang dikelompokkan berdasarkan status perkawinan
    - Jumlah pelanggan yang dikelompokkan berdasarkan jenis pengalaman kartu kredit yang dimiliki, dan
-   - Informasi umum pelanggan dari setiap negara bagian.
+   - Informasi umum mengenai aktivitas pelanggan dari setiap negara bagian.
 
 2. **Penghasilan yang didapatkan dari pelanggan**
 
@@ -55,7 +55,10 @@ Bank Payflow memiliki ribuan nasabah yang menggunakan layanannya untuk mendapatk
 
    Analisis untuk segmen pertama ini terfokus pada pembahasan mengenai profil dan karakteristik nasabah yang tersebar di beberapa wilayah dengan jumlah lebih dari 5000 pelanggan. Terdapat 5 grafik yang tersedia dan berikut adalah penjelasan dari setiap temuan yang ada.
    + Secara visual, terlihat ada 3 negara bagian dengan jumlah pelanggan terbanyak (semakin tua warna pada suatu wilayah, maka semakin banyak jumlah pelanggannya). Ketiga negara bagian itu adalah California (1.225 pelanggan), Texas (1.181 pelanggan), dan New York (1.149 pelanggan). Secara letak geografis, sebagian besar nasabah dalam bank Payflow berdomisili di bagian selatan Amerika Serikat.
-   + Jenis pekerjaan adalah hal yang wajib untuk bank ketahui sebelum pelanggan dapat menggunakan layanannya. Menurut data yang tersedia, nasabah dengan pekerjaan *self-employeed* (wiraswasta) menduduki peringkat terbanyak dalam hal jumlah pelanggan terbanyak (1.279 pelanggan). Untuk peringkat kedua jatuh kepada nasabah dengan pekerjaan sebagai *businessman* atau pengusaha (932 pelanggan).
+   + Jenis pekerjaan adalah hal yang wajib untuk bank ketahui sebelum pelanggan dapat menggunakan layanannya. Menurut data yang tersedia, nasabah dengan pekerjaan *Self-employeed* (wiraswasta) menduduki peringkat terbanyak dalam hal jumlah pelanggan terbanyak (1.279 pelanggan). Untuk peringkat kedua jatuh kepada nasabah dengan pekerjaan sebagai *Businessman* atau pengusaha (932 pelanggan).
+   + Jenjang pendidikan terakhir pelanggan yang paling dominan adalah *Graduate* atau jenjang program S2 (2.094 pelanggan). Ini berarti hampir sebagian besar nasabah yang memiliki kredit di bank Payflow merupakan nasabah yang berpendidikan tinggi. Posisi kedua yang terdapat dalam grafik batang adalah pelanggan dengan pendidikan terakhir *High school* atau SMA (988 pelanggan). Sedangkan untuk level pendidikan *Doctorate* atau S3 menduduki peringkat akhir dari total keseluruhan pelanggan (226 pelanggan).
+   + Selanjutnya yang dibahas dalam poin ini adalah total nasabah berdasarkan status perkawinan. Separuh dari total nasabah yang menggunakan layanan bank ini sudah menikah (51.2% / 2.586 pelanggan). Kemudian untuk nasabah yang belum menikah menduduki peringkat selanjutnya dengan selisih hanya 10% dari nasabah yang telah menikah (41.5% / 2.099 pelanggan). Sisa dari total jumlah pelanggan merupakan nasabah yang tidak diketahui status perkawinannya (7.3% / 369 pelanggan).
+   + Jenis pengalaman kartu kredit yang paling banyak nasabah pilih yaitu *Bills* atau pengalaman kredit dalam memberikan keuntungan untuk membayar tagihan (1.482 pelanggan). Tidak kalah jauh dari sebelumnya, jenis pengalaman kredit *Entertainment* atau hiburan secara kuantitas juga tergolong banyak yang digunakan oleh nasabah (962 pelanggan).
 
 2. **Penghasilan yang didapatkan dari pelanggan**
 
