@@ -45,5 +45,8 @@ Penyusunan kebutuhan dalam membuat visualisasi diperlukan untuk mengetahui infor
     - Nilai persentase rata-rata pelanggan yang pernah gagal bayar berdasarkan jenis pekerjaan dan jenjang pendidikan akhir.
 
 ## 🔍 Data Findings
+Bank Payflow memiliki ribuan nasabah yang menggunakan layanannya untuk mendapatkan berbagai keuntungan dalam mencukupi kebutuhan hidupnya. Untuk melihat berbagai kegiatan transaksi pelanggan dan pendapatan bank ini, maka diperlukan visualisasi data yang akan ditampilkan dan dijelaskan lebih lanjut. Nilai transaksi dan pendapatan dalam data yang digunakan saat ini menggunakan nilai mata uang Dolar Amerika (U$D). Dasbor telah tersedia untuk proyek ini dan untuk lebih jelasnya, dapat dilihat pada tautan yang tersedia di bawah. Pengguna dapat secara langsung berinteraksi dengan dasbor dalam setiap segmen yang tersedia.
+
+### [Customer Credit Analysis Dashboard of Payflow Bank](https://lookerstudio.google.com/s/tQXZYvaV63A)
 
 ## 💡 Recommendations
