@@ -49,6 +49,8 @@ Bank Payflow memiliki ribuan nasabah yang menggunakan layanannya untuk mendapatk
 
 ### [Customer Credit Analysis Dashboard of Payflow Bank](https://lookerstudio.google.com/s/tQXZYvaV63A)
 
+![Customer_Credit_Dashboard_page-0001](https://github.com/user-attachments/assets/a3a8909b-7375-46b0-ba0d-530cf501f434)
+
 1. **Demografis Pelanggan**
 
    Analisis untuk segmen pertama ini terfokus pada pembahasan mengenai profil dan karakteristik nasabah yang tersebar di beberapa wilayah dengan jumlah lebih dari 5000 pelanggan. Terdapat 5 grafik yang tersedia dan berikut adalah penjelasan dari setiap temuan yang ada.
