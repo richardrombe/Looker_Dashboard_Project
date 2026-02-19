@@ -58,4 +58,6 @@ Bank Payflow memiliki ribuan nasabah yang menggunakan layanannya untuk mendapatk
    - Secara visual, terlihat ada 3 negara bagian dengan jumlah pelanggan terbanyak (semakin tua warna pada suatu wilayah, maka semakin banyak jumlah pelanggannya). Ketiga negara bagian itu adalah California (1.225 pelanggan), Texas (1.181 pelanggan), dan New York (1.149 pelanggan). Sebagian besar nasabah dalam bank Payflow berdomisili di bagian selatan Amerika Serikat.
    - XX
 
+2. **Penghasilan yang didapatkan dari pelanggan**
+
 ## 💡 Recommendations
