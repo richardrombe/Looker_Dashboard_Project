@@ -49,7 +49,7 @@ Bank Payflow memiliki ribuan nasabah yang menggunakan layanannya untuk mendapatk
 
 ### [Customer Credit Analysis Dashboard of Payflow Bank](https://lookerstudio.google.com/s/tQXZYvaV63A)
 
-![Customer_Credit_Dashboard_page-0001](https://github.com/user-attachments/assets/a3a8909b-7375-46b0-ba0d-530cf501f434)
+<img width="2134" height="1350" alt="Customer_Credit_Dashboard_page-0001" src="https://github.com/user-attachments/assets/7e0da280-f4a3-4d25-b02d-f1139a9c0a67" />
 
 1. **Demografis Pelanggan**
 
@@ -60,6 +60,10 @@ Bank Payflow memiliki ribuan nasabah yang menggunakan layanannya untuk mendapatk
    + Poin ini membahas mengenai jumlah nasabah berdasarkan status perkawinan. Separuh dari total nasabah yang menggunakan layanan bank ini sudah menikah (51.2% / 2.586 pelanggan). Kemudian untuk nasabah yang belum menikah menduduki posisi kedua dengan selisih hanya 10% dari nasabah yang telah menikah (41.5% / 2.099 pelanggan). Sisa dari total jumlah pelanggan merupakan nasabah yang tidak diketahui status perkawinannya (7.3% / 369 pelanggan).
    + Jenis pengalaman kartu kredit yang paling banyak nasabah pilih yaitu *Bills* atau pengalaman kredit dalam memberikan keuntungan untuk membayar tagihan (1.482 pelanggan). Tidak kalah jauh dari sebelumnya, jenis pengalaman kredit *Entertainment* atau hiburan secara kuantitas juga tergolong banyak yang digunakan oleh nasabah (962 pelanggan).
 
+<img width="2134" height="1350" alt="Customer_Credit_Dashboard_page-0002" src="https://github.com/user-attachments/assets/c6625000-d7fc-4bd2-9e22-f9199d1da349" />
+
 2. **Penghasilan yang didapatkan dari pelanggan**
+   Bagian kedua dalam analisis saat ini bertujuan untuk memahami sumber pendapatan terbesar bank dari data yang telah divisualisasi. Indikator yang digunakan pada segmen ini difokuskan pada jenis pekerjaan nasabah.
+   + Biaya berlangganan nasabah termasuk salah satu pendapatan bank. Menurut data yang tersedia, pelanggan dengan pekerjaan sebagai *Self-employed* (wiraswata) adalah segmen pelanggan dengan kontribusi terbesar dalam menghasilkan keuntungan bagi bank Payflow ($370.985). Mengapa demikian? Hal ini terjadi karena, sebagia besar jumlah nasabah yang memiliki kredit dalam bank ini merupakan pelanggan dengan pekerjaan sebagai wiraswata (lihat segmen *Customer Demographic*, grafik *Customer Occupation*).
 
 ## 💡 Recommendations
