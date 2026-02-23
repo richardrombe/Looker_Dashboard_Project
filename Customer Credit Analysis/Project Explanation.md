@@ -83,3 +83,8 @@ Bank Payflow memiliki ribuan nasabah yang menggunakan layanannya untuk mendapatk
 
 ## 💡 Recommendations
 Interpretasi data mengenai profil pelanggan, keuntungan yang didapat, dan risiko yang dihadapi sudah dilakukan. Dari analisis dan penjabaran tersebut, ada beberapa temuan yang berguna untuk dijadikan sebagai tolak ukur dalam mencapai tujuan yang lebih baik. Dalam mencapai tujuan yang diinginkan, diperlukan juga suatu rekomendasi atau saran agar bisnis dapat terus berkembang. Tentunya saran yang diberikan kepada bank Payflow ini diharap dapat memberikan layanan yang bermutu dan tepat sasaran kepada setiap pelanggan. Saran atau rekomendasi tersebut memuat beberapa hal seperti berikut.
+1. **Memberikan layanan prioritas kepada segmen pelanggan *Businessman* (pengusaha)**.
+
+   Bank Payflow dapat berinvestasi dengan segmen pelanggan yang berprofesi sebagai pengusaha.
+3. **Menurunkan limit kredit bagi pelanggan yang rasio penggunaan kreditnya lebih dari batas ideal**
+4. **Hindari segmen pelanggan yang banyak melakukan gagal bayar kredit**
