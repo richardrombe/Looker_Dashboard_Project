@@ -74,6 +74,7 @@ Bank Payflow memiliki ribuan nasabah yang menggunakan layanannya untuk mendapatk
 <img width="2134" height="1350" alt="Customer_Credit_Dashboard_page-0003" src="https://github.com/user-attachments/assets/927d9102-fdbe-46ac-89a7-9b17a5d87e45" />
 
 3. **Risiko yang dialami oleh perusahaan dari pelanggan**
+
    Segmen terakhir dalam visualisasi data saat ini membahas mengenai risiko yang mengancam bank dari sisi pelayanan yang diberikan kepada nasabah. Tujuannya untuk mengetahui indikator apa saja yang membuat perusahaan bank ini bisa rugi dan dari hal tersebut dapat digunakan sebagai pedoman untuk mencegahnya.
    + *Delinquent* merupakan istilah bank dalam merujuk nasabah yang pernah melakukan gagal bayar pelunasan hutang. Jika dilihat data dari setiap negara bagian, pelanggan yang berdomisili di Oregon (OR) menunjukkan negara bagian yang memiliki persentase gagal bayar paling tinggi (33%). Hal yang menarik adalah pelanggan yang berasal dari California (CA) memiliki persentase gagal bayar yang rendah (5%), padahal negara bagian tersebut merupakan jumlah nasabah bank Payflow terbanyak (1.225 pelanggan). Untuk negara bagian Nebraska (NE) hingga Connecticut (CT) sama sekali tidak memiliki nasabah yang pernah melakukan gagal bayar pinjaman (0%).
 
